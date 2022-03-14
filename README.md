@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Austin-T-Johnson
 - 👀 I’m interested in all things music & art. I love listening to music & designing graphics, logos, webpages, anything really!
-- 🌱 I’m currently learning HTML, CSS, & JavaScript.
+- 🌱 I’m currently studying to become a full stack web developer!
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 You can reach me through my LinkedIn https://www.linkedin.com/in/austin-t-johnson/ or shoot me an email austintjohnson92@gmail.com !
 

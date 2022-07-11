@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Austin-T-Johnson
+- 👋 Hi, I’m Austin Johnson
 - 👀 I’m interested in all things music & art. I love listening to music & designing graphics, logos, webpages, anything really!
 - 🌱 I’m currently studying to become a full stack web developer!
 - 💞️ I’m looking to collaborate on anything and everything!

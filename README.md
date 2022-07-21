@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **austintjohnson92@gmail.com**
 
-- ⚡ Fun fact **I've worked in the music industry for the past 8+ years as a VJ / Tour Visual Creator**
+- ⚡ Fun fact **I've worked in the music industry for the past 10+ years as a VJ / Tour Visual Creator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

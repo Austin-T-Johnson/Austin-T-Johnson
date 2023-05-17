@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Austin Johnson</h1>
-<h3 align="center">A Full Stack Web Developer with a passion for crafting visually stunning applications</h3>
+<h3 align="center">A Full Stack Web Developer with a passion for crafting visually stunning and scalable applications</h3>
 
 - 👯 I’m looking to collaborate on **anything and everything!**
 

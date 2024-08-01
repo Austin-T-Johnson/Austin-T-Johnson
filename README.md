@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Austin Johnson</h1>
 <h3 align="center">A Full Stack Web Developer with a passion for crafting visually stunning and scalable applications</h3>
 
-- 👯 I’m looking to collaborate on **anything and everything!**
+- 💻 Web Developer @ Thryv**
 
 - 📫 How to reach me **austintjohnson92@gmail.com**
 
-- ⚡ Fun fact **I've worked in the music industry for the past 10+ years as a VJ / Tour Visual Creator**
+- ⚡ Fun fact **I worked in the music industry for the past 10+ years as a VJ / Tour Visual Creator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

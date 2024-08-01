@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Austin Johnson</h1>
 <h3 align="center">A Full Stack Web Developer with a passion for crafting visually stunning and scalable applications</h3>
 
-- 💻 Web Developer @ Thryv**
+- 💻 Web Developer @ **Thryv**
 
 - 📫 How to reach me **austintjohnson92@gmail.com**
 
